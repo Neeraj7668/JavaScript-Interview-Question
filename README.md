@@ -54,10 +54,10 @@
 
 ## JavaScript Question Answers:
 
-1. what is JavaScript?
+1. **What is JavaScript?**
    Ans: JavaScript is a high level programming language used to create interactive and dynamic websites, web applications and desktop applications.It is also commonly used for server-side development using Node.js.
 
-2. Explain the difference between let, const, and var.
+2. **Explain the difference between let, const, and var?**
    Ans: `var` is function-scoped and can be redeclared and reassigned. `let` is block-scoped, can be reassigned but not redeclared in the same scope. `const` is also block-scoped and cannot be reassigned or redeclared.
 
 ```javascript
