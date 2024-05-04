@@ -52,8 +52,7 @@
 39. Describe the difference between innerHTML and textContent.
 40. How do you handle asynchronous code in JavaScript?
 
-## ==****************************************************************==
-
+<!--  -->
  ## Basic JavaScript Question Answer 1-10
 1. **What is JavaScript?** <br>
    Ans: JavaScript is a high level programming language used to create interactive and dynamic websites, web applications and desktop applications.It is also commonly used for server-side development using Node.js.
