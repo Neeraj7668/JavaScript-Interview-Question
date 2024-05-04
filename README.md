@@ -74,6 +74,7 @@ const z = 6; // Error: Identifier 'z' has already been declared
 x = 7; // No error
 y = 8; // No error
 z = 9; // Error: Assignment to constant variable
+```
 
 3. **How does hoisting work in JavaScript?** <br>
 Ans: In JavaScript, variable and function declarations are hoisted to the top of their containing scope during the compile phase, which means they are processed before the code is executed. However, only the declarations are hoisted, not the initializations. Here's how it works:
